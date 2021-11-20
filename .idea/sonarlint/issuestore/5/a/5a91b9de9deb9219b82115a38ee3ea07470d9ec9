@@ -1,0 +1,17 @@
+
+7
+java:S1170"!Make this final field static too.(ñÅëÄ
+7
+java:S1170"!Make this final field static too.(¨ª²È
+7
+java:S1170"!Make this final field static too.(‹¹Ğğ
+<
+java:S1170"!Make this final field static too.(ÎİÏÛüÿÿÿÿ
+@
+java:S1197:"*Move the array designators [] to the type.(ıˆ¯
+E
+java:S1197D"*Move the array designators [] to the type.(íÂèÂûÿÿÿÿ
+7	java:S131O""Add a default case to this switch.(¡ùÉà
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÌÊÑÓ/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š“ñl

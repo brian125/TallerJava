@@ -1,0 +1,45 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÙ¢’
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨” œ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µ×ï¥ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã÷ÔÍÿÿÿÿÿ
+H
+java:S1659"2Declare "pesoElectrodomestico" on a separate line.(‡Éßû
+S	java:S106"9Replace this use of System.out or System.err by a logger.(óˆ³úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘«
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ÇËø‚
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(‰–î§
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Í‡Š£
+E
+java:S1659/"*Declare "pesoLavadora" on a separate line.(ªÆ¢øÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(óˆ³úÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(‘«
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ÇËø‚
+M	java:S106;"9Replace this use of System.out or System.err by a logger.(ì¬ÏD
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ÿ¤Œµüÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(³÷Ø€
+B
+java:S1659H",Declare "pesoTelevision" on a separate line.(·á„
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(óˆ³úÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(‘«
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(ÇËø‚
+M	java:S106U"9Replace this use of System.out or System.err by a logger.(ì¬ÏD
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(¥‹Ãøÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(ÑÚï§ıÿÿÿÿ
+M	java:S106_"9Replace this use of System.out or System.err by a logger.(±Â°d
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(¦‘Ë¡ıÿÿÿÿ
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(¿ÙÅüÿÿÿÿ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(É¡âÑ
+M	java:S106{"9Replace this use of System.out or System.err by a logger.(ÜÍğU
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(«İ±Òùÿÿÿÿ
+o
+java:S1192"TDefine a constant instead of duplicating this literal "
+Ingrese un color: " 3 times.(óˆ³úÿÿÿÿ
+v
+java:S1192"`Define a constant instead of duplicating this literal "Ingrese el consumo energetico: " 3 times.(‘«
+o
+java:S1192""YDefine a constant instead of duplicating this literal "Ingrese el precio base: " 3 times.(ÇËø‚
+m	java:S127*"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+m	java:S127C"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+m	java:S127`"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Š“ñl
